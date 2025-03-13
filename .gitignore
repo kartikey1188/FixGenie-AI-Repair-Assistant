@@ -1,0 +1,20 @@
+# Raw data files
+backend/data/raw_data
+
+# Environment variables
+.env
+
+# Service account credentials
+service-account.json
+
+# Virtual environment
+backend/.venv
+
+# Python cache files
+__pycache__
+
+# Vector database files
+backend/data/vector_database
+
+# Cleaned data files
+backend/data/clean_data
